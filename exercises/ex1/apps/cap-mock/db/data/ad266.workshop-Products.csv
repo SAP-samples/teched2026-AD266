@@ -1,0 +1,9 @@
+ID;name;description;category;price;currency;stock;supplier_ID
+aaaaaaaa-0000-0000-0000-000000000001;Notebook Basic 15;15" entry-level notebook, 8 GB RAM, 256 GB SSD;Notebooks;599.00;EUR;120;11111111-1111-1111-1111-111111111111
+aaaaaaaa-0000-0000-0000-000000000002;Notebook Pro 14;14" developer notebook, 32 GB RAM, 1 TB SSD;Notebooks;1899.00;EUR;35;11111111-1111-1111-1111-111111111111
+aaaaaaaa-0000-0000-0000-000000000003;Wireless Mouse;Ergonomic wireless mouse, USB-C receiver;Accessories;24.90;EUR;540;22222222-2222-2222-2222-222222222222
+aaaaaaaa-0000-0000-0000-000000000004;Mechanical Keyboard;Compact mechanical keyboard, tactile switches;Accessories;89.00;USD;210;22222222-2222-2222-2222-222222222222
+aaaaaaaa-0000-0000-0000-000000000005;4K Monitor 27;27" 4K UHD monitor, USB-C, height adjustable;Monitors;449.00;EUR;60;33333333-3333-3333-3333-333333333333
+aaaaaaaa-0000-0000-0000-000000000006;Docking Station;Universal USB-C docking station, dual display;Accessories;179.00;EUR;95;33333333-3333-3333-3333-333333333333
+aaaaaaaa-0000-0000-0000-000000000007;Webcam HD;1080p webcam with privacy shutter;Accessories;59.00;USD;300;22222222-2222-2222-2222-222222222222
+aaaaaaaa-0000-0000-0000-000000000008;USB-C Hub;7-in-1 USB-C hub, HDMI + card reader;Accessories;39.90;EUR;180;11111111-1111-1111-1111-111111111111
