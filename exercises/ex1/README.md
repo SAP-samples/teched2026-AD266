@@ -46,6 +46,7 @@ Back in your Claude Code session navigate to the `~/Desktop/apps` folder:
 > ```
 > Create a new SAPUI5 application in JavaScript with namespace `ad266.products` next to the `cap-mock` project.
 > Wire it to the OData V4 service at `http://localhost:4004/odata/v4/catalog/` and the `Products` entity set.
+> Leverage the ui5-cds-plugin (https://github.com/ui5-community/ui5-ecosystem-showcase/tree/main/packages/cds-plugin-ui5).
 > ```
 
 Inspect the generated project. Notice the modern defaults the tool applies:
