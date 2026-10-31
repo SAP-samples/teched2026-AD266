@@ -43,8 +43,13 @@ claude plugin install ui5-typescript-conversion@claude-plugins-official
 
 > [!IMPORTANT]
 > The conversion **skill** owns the full setup (dependencies, `tsconfig.json`, `ui5.yaml` transpile
-> config, ES-module conversion). If the UI5 MCP server exposes a separate TypeScript-conversion
-> tool, **disable that MCP tool for this exercise** so the two don't overlap — let the skill drive.
+> config, ES-module conversion). The UI5 MCP server also exposes a TypeScript-conversion guideline
+> tool — **disable it** so the two don't overlap and the skill drives the conversion.
+>
+> Exit any running Claude Code session first, then start a new one with the tool disabled:
+> ```bash
+> claude --disallowedTools "mcp__plugin_ui5_ui5-mcp-server__get_typescript_conversion_guidelines"
+> ```
 
 ## 2.2 Run the conversion skill
 
