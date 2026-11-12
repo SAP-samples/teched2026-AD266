@@ -2,6 +2,8 @@
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2026-AD266)](https://api.reuse.software/info/github.com/SAP-samples/teched2026-AD266)
 
+> **Note:** This repository was created for the **SAP TechEd 2026** event in **Berlin**. Its content has been superseded by the official [OpenUI5 / SAPUI5 Agentic Development Tutorial](https://ui5.github.io/tutorials/agentic/), which is the recommended resource going forward.
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2026 session **AD266 - Agentic UI
